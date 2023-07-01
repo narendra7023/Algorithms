@@ -1,3 +1,8 @@
+
+//here we are try merge sort algorithm on linked list.
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
   
