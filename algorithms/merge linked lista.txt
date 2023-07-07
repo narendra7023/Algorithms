@@ -1,8 +1,8 @@
 
-//here we are try merge sort algorithm on linked list.
+//here we are  merge sort algorithm on linked list.
+//merging two linked lists.
 
-
-
+ 
 #include <bits/stdc++.h>
 using namespace std;
   
